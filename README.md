@@ -1,5 +1,4 @@
-# 
-PlantXR 
+# PlantXR 
 PlantXR is a virtual and mixed-reality application for the Varjo XR-3 powered by Unity. This app contains a tutorial level, Sundial Garden VR scene, and Sundial Garden MR scene. 
 
 The Sundial Garden tree layout is an optimised layout adhereing to several constraints such as minimum credit count of evergreen trees, spacing requirements, cost, and many more. The optimisation is done using the genetic algorithm, and the code can be found here: https://github.com/sbochman/PlantingOptimization
