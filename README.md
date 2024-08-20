@@ -14,5 +14,5 @@ The assets folder needs to have the LiDAR scan pasted in as well, which can be f
 
 # Dependencies
   * XR Plugin Management 4.5.0
-  * XR Interaction Toolkin 2.5.4
+  * XR Interaction Toolkit 2.5.4
   * Ultraleap Tracking 7.0.0
